@@ -1,2 +1,2 @@
-# Kis3
-Kísérlet
+# cuna
+ez itt cuna verzioja :D
